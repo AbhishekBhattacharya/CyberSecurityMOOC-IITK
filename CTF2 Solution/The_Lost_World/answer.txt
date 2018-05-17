@@ -1,0 +1,2 @@
+We decompiled the apk file which gave us a bunch of files and some .so binaries, there was nothing in the files so we decompiled the .so file
+and found the flag inside them.

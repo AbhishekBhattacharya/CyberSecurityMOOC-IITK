@@ -1,0 +1,5 @@
+On opening the pcap file in wireshark and observing the 53rd packet, it
+becomes the clear that the device whose interrupts are given in the end is
+keyboard. So starting from packet no. 78 (URB_interrupts) and checking the
+content of packets with 72 length, we can find the URB interrupts at the
+end. Translating them to ASCII values, we get the required flag

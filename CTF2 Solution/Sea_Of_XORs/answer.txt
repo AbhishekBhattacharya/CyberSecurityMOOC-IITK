@@ -1,0 +1,5 @@
+the key was the flag starting from "flag{" which we already knew.
+Xored all the lines seperately and guessed the words not completely
+appearing in the semi-decrypted text. Then from  the guessed word 
+we extended the flag and saw if the now decrypted text lines makes
+sense. Did this repeatedly till we had the flag.

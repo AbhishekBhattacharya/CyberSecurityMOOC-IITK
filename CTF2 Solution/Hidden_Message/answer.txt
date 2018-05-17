@@ -1,0 +1,1 @@
+flag is hidden in the source of the HTML

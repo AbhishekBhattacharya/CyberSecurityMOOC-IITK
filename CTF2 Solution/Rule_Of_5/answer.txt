@@ -1,0 +1,22 @@
+# Used chrome extensions ModHeader and EditThisCookie
+changed cookie as  admin =1 
+then set user-agent as CS628A
+For setting the referer, had to include http at the beginning of securitymooc.in due to the referrer policy.
+Enabling Do Not Tracking for the browser in privacy policy.
+created X-UIDH header
+
+
+
+Host: 52.7.95.224:4432
+User-Agent: CS628A
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Cookie: PHPSESSID=v9400dprdok1b5bdeqnm2hral0; admin=1
+X-UIDH: anything
+Connection: keep-alive
+Referer: securitymooc.in
+Upgrade-Insecure-Requests: 1
+Pragma: no-cache
+Cache-Control: no-cache
+DNT: 1

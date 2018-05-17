@@ -1,0 +1,1 @@
+Use sqlmap with dbms=sqlite and do a boolean based blind attack. You need to tell sqlmap to look for 'Wow' string in the positive (true) outcome, and it will provide you with a dump of the database.

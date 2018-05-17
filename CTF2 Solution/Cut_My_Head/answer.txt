@@ -1,0 +1,2 @@
+Since the encrypted file  should start with the standard ELF header which contains the string ".ELF" followed by zeroes hence where there should
+be zeroes, we had the key and then we xor'ed the encrypted file with key to get the binary
