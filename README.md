@@ -1,18 +1,18 @@
 # CyberSecurityMOOC-IITK
 
-About the Course
+# About the Course
 
 This course deals with security related to system software, networks, mobile platform, supply chains etc. It will talk about the urgent need for cybersecurity in critical computer systems, networks, and the worldwide web, and also explain various threat scenarios along with mitigation techniques in case of cyber attacks. Overall it prepares the student in all the major aspects of system security related to computers.
 Syllabus
 
-Prerequisites and Co-requisites
+# Prerequisites and Co-requisites
 
 Prerequisites for this course is a very strong programming background with knowledge of run-time or execution environment, usage of debuggers, and knowledge of shared libraries or dynamically linked libraries. Some knowledge of x86 assembly language or similar assembly languages will be assumed. Some knowledge of Operating Systems especially memory management, virtual memory etc. will be assumed. Familiarity with UNIX or Linux file system and access control would be beneficial in understanding some parts of the course. We will also assume that the student knows basic network protocols such as TCP/IP, DNS, routing etc. We will further assume that the student is familiar with a client/server architecture of the world-wide web -- where the browser is a client to a web server. Further, prior knowledge of a scripting language such as shell scripting, Perl, python and/or Ruby will be beneficial. Knowledge of Javascript, PHP or other web programming might be very useful.  Prior familiarity with preliminaries of cyber security would be helpful but not required.  
 
 Suggested Readings as pre- requisites : https://www.securitymooc.in/prerequisite
 
 Major, Measurable Learning Objectives
- Having successfully completed this course, the student will be able to:
+Having successfully completed this course, the student will be able to:
 
     Discover software bugs that pose cyber security threats, explain and recreate exploits of such bugs in realizing a cyber-attack on such software, and explain how to fix the bugs to mitigate such threats
     Discover the various access control mechanisms, privileges and dangers of privilege escalation vulnerabilities 
